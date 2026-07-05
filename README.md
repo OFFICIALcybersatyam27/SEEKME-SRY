@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/Y9r8r51K/SAVE-20260629-193124.jpg"></p>
+<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
     <a href="https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9">
@@ -235,5 +235,5 @@ as an alternative to ngrok
 **YouTube**
 
 <a href="https://odysee.com/@thewhiteh4t:2/seeker_v126_demo:e">
-  <img src="https://i.postimg.cc/HLVX6T46/file-000000009ac07208a4fc1e0e4ccb6700.png">
+  <img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp">
 </a>
