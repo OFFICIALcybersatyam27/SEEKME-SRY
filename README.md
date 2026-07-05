@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="https://i.postimg.cc/Y9r8r51K/SAVE-20260629-193124.jpg"></p>
 
 <p align="center">
     <a href="https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9">
